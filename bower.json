@@ -6,6 +6,7 @@
     "bower_components",
     "output"
   ],
+  "license": "LGPL-3.0+",
   "dependencies": {
     "purescript-prelude": "^3.1.0",
     "purescript-smolder": "^10.1.0",
